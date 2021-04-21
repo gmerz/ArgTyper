@@ -2,9 +2,9 @@
 
 **-- ArgumentParser on Typehints and Decorators**
 
-** Documentation: ** https://argtyper.readthedocs.io/
+**Documentation:** https://argtyper.readthedocs.io/
 
-** Source Code: ** https://github.com/gmerz/ArgTyper
+**Source Code:** https://github.com/gmerz/ArgTyper
 
 ---
 
